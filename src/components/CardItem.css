@@ -1,0 +1,14 @@
+.cardContainer {
+  text-align: center;
+  padding: 1em;
+  width: 200px;
+  border: 1px solid white;
+  border-radius: 1em;
+  background-color: #282c34;
+  color: white;
+  margin: 0.5em;
+}
+
+.cardTitle {
+  font-size: 2em;
+}
